@@ -2,3 +2,5 @@
 /target
 
 *.private.json
+super_secret_bot_ip.txt
+
