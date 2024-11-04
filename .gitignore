@@ -1,6 +1,7 @@
 /.idea
 /target
 
-*.private.json
+*.private.*
+*.private
 super_secret_bot_ip.txt
-
+node_modules
