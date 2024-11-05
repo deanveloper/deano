@@ -1,9 +1,0 @@
-@user, please include a pay range in your post. While a specific pay amount is not needed, it is important for people to know at least a ballpark estimate of how much money they will be making.
-
-Examples can still be vague, even something like '100 to 1000 dollars per project, depending on size' is valuable. However, things need to be more specific than just 'contact me for pay info' or 'pay depends on experience'.
-
-Your message is included below so that you can change it accordingly.
-
-```
-@msg
-```

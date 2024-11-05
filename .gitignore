@@ -1,7 +1,5 @@
-/.idea
-/target
-
 *.private.*
 *.private
-super_secret_bot_ip.txt
-node_modules
+
+zig-out
+.zig-cache
